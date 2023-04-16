@@ -53,6 +53,8 @@ We using the monorepo structure with [yarn workspaces](https://classic.yarnpkg.c
 │   ├── tsconfig.json
 │   └── yarn.lock
 └── yarn.lock
+
+Enjoy
 ```
 
 ## Community
